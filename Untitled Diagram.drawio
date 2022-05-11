@@ -1,200 +1,200 @@
-<mxfile host="app.diagrams.net" modified="2022-05-11T10:25:55.230Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36 Edg/101.0.1210.39" etag="sj24GurC6rvQooaGxQBl" version="15.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-11T10:33:45.415Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36 Edg/101.0.1210.39" etag="swnBNks27xhHIbHR2rXg" version="15.2.9" type="github">
   <diagram id="fd9hJJ5T3XrYjjQCCuye" name="第 1 页">
-    <mxGraphModel dx="3220" dy="1257" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2272" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="5mZBz-UAEwgQ3NK9knZv-1" style="group" connectable="0" vertex="1" parent="1">
+        <mxCell id="5mZBz-UAEwgQ3NK9knZv-4" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VVCZR5unO6yuWloQNsyz-1" style="group" connectable="0" vertex="1" parent="1">
           <mxGeometry x="20" y="125.13" width="787.5" height="819.87" as="geometry" />
         </mxCell>
-        <mxCell id="5mZBz-UAEwgQ3NK9knZv-2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" slib="general" title="圆角矩形" sbId="general" parent="5mZBz-UAEwgQ3NK9knZv-1">
+        <mxCell id="VVCZR5unO6yuWloQNsyz-2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" slib="general" title="圆角矩形" sbId="general" parent="VVCZR5unO6yuWloQNsyz-1">
           <mxGeometry width="787.5" height="819.8699999999999" as="geometry" />
         </mxCell>
-        <mxCell id="5mZBz-UAEwgQ3NK9knZv-3" value="CCE" style="labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;fillColor=#000000;strokeColor=none;shape=mxgraph.huawei.huaweicloudarchitecture.huaweicce" vertex="1" slib="Developer platform" title="云容器引擎" sbId="huawei" parent="5mZBz-UAEwgQ3NK9knZv-1">
+        <mxCell id="VVCZR5unO6yuWloQNsyz-3" value="CCE" style="labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;fillColor=#000000;strokeColor=none;shape=mxgraph.huawei.huaweicloudarchitecture.huaweicce" vertex="1" slib="Developer platform" title="云容器引擎" sbId="huawei" parent="VVCZR5unO6yuWloQNsyz-1">
           <mxGeometry x="6" y="12.523927986906724" width="40" height="71.56530278232408" as="geometry" />
         </mxCell>
-        <mxCell id="5mZBz-UAEwgQ3NK9knZv-4" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="5mZBz-UAEwgQ3NK9knZv-5" value="ECS&#xa;(Console-DevOps)" style="labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;fillColor=#000000;strokeColor=none;shape=mxgraph.huawei.huaweicloudarchitecture.huaweiecs;rounded=0;" vertex="1" slib="Computer" title="弹性云服务器" sbId="huawei" parent="1">
+        <mxCell id="VVCZR5unO6yuWloQNsyz-4" value="ECS&#xa;(Console-DevOps)" style="labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;fillColor=#000000;strokeColor=none;shape=mxgraph.huawei.huaweicloudarchitecture.huaweiecs;rounded=0;" vertex="1" slib="Computer" title="弹性云服务器" sbId="huawei" parent="1">
           <mxGeometry x="105" y="26.25" width="52.75" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="5mZBz-UAEwgQ3NK9knZv-6" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;rounded=0;" vertex="1" slib="basic" title="部分矩形" sbId="basic" parent="1">
+        <mxCell id="VVCZR5unO6yuWloQNsyz-5" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;rounded=0;" vertex="1" slib="basic" title="部分矩形" sbId="basic" parent="1">
           <mxGeometry x="154.25" y="144.5" width="120" height="774.25" as="geometry" />
         </mxCell>
-        <mxCell id="5mZBz-UAEwgQ3NK9knZv-7" value="ECS" style="labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;fillColor=#000000;strokeColor=none;shape=mxgraph.huawei.huaweicloudarchitecture.huaweiecs;rounded=0;" vertex="1" slib="Computer" title="弹性云服务器" sbId="huawei" parent="1">
+        <mxCell id="VVCZR5unO6yuWloQNsyz-6" value="ECS" style="labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;fillColor=#000000;strokeColor=none;shape=mxgraph.huawei.huaweicloudarchitecture.huaweiecs;rounded=0;" vertex="1" slib="Computer" title="弹性云服务器" sbId="huawei" parent="1">
           <mxGeometry x="187.87" y="163.5" width="52.75" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="5mZBz-UAEwgQ3NK9knZv-8" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;rounded=0;" vertex="1" slib="basic" title="部分矩形" sbId="basic" parent="1">
+        <mxCell id="VVCZR5unO6yuWloQNsyz-7" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;rounded=0;" vertex="1" slib="basic" title="部分矩形" sbId="basic" parent="1">
           <mxGeometry x="314" y="144.5" width="120" height="774.25" as="geometry" />
         </mxCell>
-        <mxCell id="5mZBz-UAEwgQ3NK9knZv-9" value="ECS" style="labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;fillColor=#000000;strokeColor=none;shape=mxgraph.huawei.huaweicloudarchitecture.huaweiecs;rounded=0;" vertex="1" slib="Computer" title="弹性云服务器" sbId="huawei" parent="1">
+        <mxCell id="VVCZR5unO6yuWloQNsyz-8" value="ECS" style="labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;fillColor=#000000;strokeColor=none;shape=mxgraph.huawei.huaweicloudarchitecture.huaweiecs;rounded=0;" vertex="1" slib="Computer" title="弹性云服务器" sbId="huawei" parent="1">
           <mxGeometry x="342.62" y="163.5" width="52.75" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="5mZBz-UAEwgQ3NK9knZv-10" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;rounded=0;" vertex="1" slib="basic" title="部分矩形" sbId="basic" parent="1">
+        <mxCell id="VVCZR5unO6yuWloQNsyz-9" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;rounded=0;" vertex="1" slib="basic" title="部分矩形" sbId="basic" parent="1">
           <mxGeometry x="474.5" y="144.5" width="120" height="774.25" as="geometry" />
         </mxCell>
-        <mxCell id="5mZBz-UAEwgQ3NK9knZv-11" value="ECS" style="labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;fillColor=#000000;strokeColor=none;shape=mxgraph.huawei.huaweicloudarchitecture.huaweiecs;rounded=0;" vertex="1" slib="Computer" title="弹性云服务器" sbId="huawei" parent="1">
+        <mxCell id="VVCZR5unO6yuWloQNsyz-10" value="ECS" style="labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;fillColor=#000000;strokeColor=none;shape=mxgraph.huawei.huaweicloudarchitecture.huaweiecs;rounded=0;" vertex="1" slib="Computer" title="弹性云服务器" sbId="huawei" parent="1">
           <mxGeometry x="504.12" y="163.5" width="52.75" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="5mZBz-UAEwgQ3NK9knZv-12" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;rounded=0;" vertex="1" slib="basic" title="部分矩形" sbId="basic" parent="1">
+        <mxCell id="VVCZR5unO6yuWloQNsyz-11" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;rounded=0;" vertex="1" slib="basic" title="部分矩形" sbId="basic" parent="1">
           <mxGeometry x="634" y="144.5" width="120" height="774.25" as="geometry" />
         </mxCell>
-        <mxCell id="5mZBz-UAEwgQ3NK9knZv-13" value="ECS" style="labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;fillColor=#000000;strokeColor=none;shape=mxgraph.huawei.huaweicloudarchitecture.huaweiecs;rounded=0;" vertex="1" slib="Computer" title="弹性云服务器" sbId="huawei" parent="1">
+        <mxCell id="VVCZR5unO6yuWloQNsyz-12" value="ECS" style="labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;fillColor=#000000;strokeColor=none;shape=mxgraph.huawei.huaweicloudarchitecture.huaweiecs;rounded=0;" vertex="1" slib="Computer" title="弹性云服务器" sbId="huawei" parent="1">
           <mxGeometry x="669.62" y="163.5" width="52.75" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="5mZBz-UAEwgQ3NK9knZv-14" style="group" connectable="0" vertex="1" parent="1">
+        <mxCell id="VVCZR5unO6yuWloQNsyz-13" style="group" connectable="0" vertex="1" parent="1">
           <mxGeometry x="62" y="332" width="702.5" height="69.54108019639935" as="geometry" />
         </mxCell>
-        <mxCell id="5mZBz-UAEwgQ3NK9knZv-15" style="group" connectable="0" vertex="1" parent="5mZBz-UAEwgQ3NK9knZv-14">
+        <mxCell id="VVCZR5unO6yuWloQNsyz-14" style="group" connectable="0" vertex="1" parent="VVCZR5unO6yuWloQNsyz-13">
           <mxGeometry width="702.5" height="69.54108019639935" as="geometry" />
         </mxCell>
-        <mxCell id="5mZBz-UAEwgQ3NK9knZv-16" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;rounded=0;dashed=1;" vertex="1" slib="basic" title="部分矩形" sbId="basic" parent="5mZBz-UAEwgQ3NK9knZv-15">
+        <mxCell id="VVCZR5unO6yuWloQNsyz-15" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;rounded=0;dashed=1;" vertex="1" slib="basic" title="部分矩形" sbId="basic" parent="VVCZR5unO6yuWloQNsyz-14">
           <mxGeometry width="702.5" height="69.54108019639935" as="geometry" />
         </mxCell>
-        <mxCell id="5mZBz-UAEwgQ3NK9knZv-17" value="SSO" style="labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;fillColor=#000000;strokeColor=none;shape=mxgraph.huawei.huaweicloudarchitecture.huaweisdwan;rounded=0;dashed=1;" vertex="1" parent="5mZBz-UAEwgQ3NK9knZv-15">
+        <mxCell id="VVCZR5unO6yuWloQNsyz-16" value="SSO" style="labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;fillColor=#000000;strokeColor=none;shape=mxgraph.huawei.huaweicloudarchitecture.huaweisdwan;rounded=0;dashed=1;" vertex="1" parent="VVCZR5unO6yuWloQNsyz-14">
           <mxGeometry x="15" y="8.113126022913256" width="40" height="22.311096563011457" as="geometry" />
         </mxCell>
-        <mxCell id="5mZBz-UAEwgQ3NK9knZv-18" style="labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;fillColor=#000000;strokeColor=none;shape=mxgraph.huawei.huaweicloudarchitecture.huaweicci;rounded=0;dashed=1;" vertex="1" slib="Container service" title="云容器实例" sbId="huawei" parent="5mZBz-UAEwgQ3NK9knZv-15">
+        <mxCell id="VVCZR5unO6yuWloQNsyz-17" style="labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;fillColor=#000000;strokeColor=none;shape=mxgraph.huawei.huaweicloudarchitecture.huaweicci;rounded=0;dashed=1;" vertex="1" slib="Container service" title="云容器实例" sbId="huawei" parent="VVCZR5unO6yuWloQNsyz-14">
           <mxGeometry x="286.25" y="14.770000000000039" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="5mZBz-UAEwgQ3NK9knZv-19" style="group" connectable="0" vertex="1" parent="1">
+        <mxCell id="VVCZR5unO6yuWloQNsyz-18" style="group" connectable="0" vertex="1" parent="1">
           <mxGeometry x="62" y="429" width="702.5" height="69.54108019639935" as="geometry" />
         </mxCell>
-        <mxCell id="5mZBz-UAEwgQ3NK9knZv-20" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;rounded=0;dashed=1;" vertex="1" slib="basic" title="部分矩形" sbId="basic" parent="5mZBz-UAEwgQ3NK9knZv-19">
+        <mxCell id="VVCZR5unO6yuWloQNsyz-19" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;rounded=0;dashed=1;" vertex="1" slib="basic" title="部分矩形" sbId="basic" parent="VVCZR5unO6yuWloQNsyz-18">
           <mxGeometry width="702.5" height="69.54108019639935" as="geometry" />
         </mxCell>
-        <mxCell id="5mZBz-UAEwgQ3NK9knZv-21" value="USER" style="labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;fillColor=#000000;strokeColor=none;shape=mxgraph.huawei.huaweicloudarchitecture.huaweisdwan;rounded=0;dashed=1;" vertex="1" parent="5mZBz-UAEwgQ3NK9knZv-19">
+        <mxCell id="VVCZR5unO6yuWloQNsyz-20" value="USER" style="labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;fillColor=#000000;strokeColor=none;shape=mxgraph.huawei.huaweicloudarchitecture.huaweisdwan;rounded=0;dashed=1;" vertex="1" parent="VVCZR5unO6yuWloQNsyz-18">
           <mxGeometry x="15" y="8.113126022913256" width="40" height="22.311096563011457" as="geometry" />
         </mxCell>
-        <mxCell id="5mZBz-UAEwgQ3NK9knZv-22" style="labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;fillColor=#000000;strokeColor=none;shape=mxgraph.huawei.huaweicloudarchitecture.huaweicci;rounded=0;dashed=1;" vertex="1" slib="Container service" title="云容器实例" sbId="huawei" parent="5mZBz-UAEwgQ3NK9knZv-19">
+        <mxCell id="VVCZR5unO6yuWloQNsyz-21" style="labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;fillColor=#000000;strokeColor=none;shape=mxgraph.huawei.huaweicloudarchitecture.huaweicci;rounded=0;dashed=1;" vertex="1" slib="Container service" title="云容器实例" sbId="huawei" parent="VVCZR5unO6yuWloQNsyz-18">
           <mxGeometry x="451" y="14.770000000000039" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="5mZBz-UAEwgQ3NK9knZv-23" style="group" connectable="0" vertex="1" parent="1">
+        <mxCell id="VVCZR5unO6yuWloQNsyz-22" style="group" connectable="0" vertex="1" parent="1">
           <mxGeometry x="62" y="525" width="702.5" height="69.54108019639935" as="geometry" />
         </mxCell>
-        <mxCell id="5mZBz-UAEwgQ3NK9knZv-24" style="group" connectable="0" vertex="1" parent="5mZBz-UAEwgQ3NK9knZv-23">
+        <mxCell id="VVCZR5unO6yuWloQNsyz-23" style="group" connectable="0" vertex="1" parent="VVCZR5unO6yuWloQNsyz-22">
           <mxGeometry width="702.5" height="69.54108019639935" as="geometry" />
         </mxCell>
-        <mxCell id="5mZBz-UAEwgQ3NK9knZv-25" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;rounded=0;dashed=1;" vertex="1" slib="basic" title="部分矩形" sbId="basic" parent="5mZBz-UAEwgQ3NK9knZv-24">
+        <mxCell id="VVCZR5unO6yuWloQNsyz-24" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;rounded=0;dashed=1;" vertex="1" slib="basic" title="部分矩形" sbId="basic" parent="VVCZR5unO6yuWloQNsyz-23">
           <mxGeometry width="702.5" height="69.54108019639935" as="geometry" />
         </mxCell>
-        <mxCell id="5mZBz-UAEwgQ3NK9knZv-26" style="labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;fillColor=#000000;strokeColor=none;shape=mxgraph.huawei.huaweicloudarchitecture.huaweicci;rounded=0;dashed=1;" vertex="1" slib="Container service" title="云容器实例" sbId="huawei" parent="5mZBz-UAEwgQ3NK9knZv-24">
+        <mxCell id="VVCZR5unO6yuWloQNsyz-25" style="labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;fillColor=#000000;strokeColor=none;shape=mxgraph.huawei.huaweicloudarchitecture.huaweicci;rounded=0;dashed=1;" vertex="1" slib="Container service" title="云容器实例" sbId="huawei" parent="VVCZR5unO6yuWloQNsyz-23">
           <mxGeometry x="454" y="14.770000000000095" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="5mZBz-UAEwgQ3NK9knZv-27" style="group" connectable="0" vertex="1" parent="5mZBz-UAEwgQ3NK9knZv-24">
+        <mxCell id="VVCZR5unO6yuWloQNsyz-26" style="group" connectable="0" vertex="1" parent="VVCZR5unO6yuWloQNsyz-23">
           <mxGeometry x="15" y="3.289999999999999" width="40" height="27.134222585924714" as="geometry" />
         </mxCell>
-        <mxCell id="5mZBz-UAEwgQ3NK9knZv-28" value="PKI" style="labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;fillColor=#000000;strokeColor=none;shape=mxgraph.huawei.huaweicloudarchitecture.huaweisdwan;rounded=0;dashed=1;" vertex="1" parent="5mZBz-UAEwgQ3NK9knZv-27">
+        <mxCell id="VVCZR5unO6yuWloQNsyz-27" value="PKI" style="labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;fillColor=#000000;strokeColor=none;shape=mxgraph.huawei.huaweicloudarchitecture.huaweisdwan;rounded=0;dashed=1;" vertex="1" parent="VVCZR5unO6yuWloQNsyz-26">
           <mxGeometry y="4.823126022913257" width="40" height="22.311096563011457" as="geometry" />
         </mxCell>
-        <mxCell id="5mZBz-UAEwgQ3NK9knZv-29" style="labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;fillColor=#000000;strokeColor=none;shape=mxgraph.huawei.huaweicloudarchitecture.huaweiscm;rounded=0;dashed=1;" vertex="1" slib="Domain name and website" title="证书管理" sbId="huawei" parent="5mZBz-UAEwgQ3NK9knZv-27">
+        <mxCell id="VVCZR5unO6yuWloQNsyz-28" style="labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;fillColor=#000000;strokeColor=none;shape=mxgraph.huawei.huaweicloudarchitecture.huaweiscm;rounded=0;dashed=1;" vertex="1" slib="Domain name and website" title="证书管理" sbId="huawei" parent="VVCZR5unO6yuWloQNsyz-26">
           <mxGeometry width="9.5" height="11.48" as="geometry" />
         </mxCell>
-        <mxCell id="5mZBz-UAEwgQ3NK9knZv-30" style="group" connectable="0" vertex="1" parent="1">
+        <mxCell id="VVCZR5unO6yuWloQNsyz-29" style="group" connectable="0" vertex="1" parent="1">
           <mxGeometry x="62" y="236.24875482815048" width="702.5" height="69.54108019639935" as="geometry" />
         </mxCell>
-        <mxCell id="5mZBz-UAEwgQ3NK9knZv-31" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;rounded=0;dashed=1;" vertex="1" slib="basic" title="部分矩形" sbId="basic" parent="5mZBz-UAEwgQ3NK9knZv-30">
+        <mxCell id="VVCZR5unO6yuWloQNsyz-30" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;rounded=0;dashed=1;" vertex="1" slib="basic" title="部分矩形" sbId="basic" parent="VVCZR5unO6yuWloQNsyz-29">
           <mxGeometry width="702.5" height="69.54108019639935" as="geometry" />
         </mxCell>
-        <mxCell id="5mZBz-UAEwgQ3NK9knZv-32" value="Nginx&#xa;(Frontend)" style="labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;fillColor=#000000;strokeColor=none;shape=mxgraph.huawei.huaweicloudarchitecture.huaweisdwan;rounded=0;dashed=1;" vertex="1" parent="5mZBz-UAEwgQ3NK9knZv-30">
+        <mxCell id="VVCZR5unO6yuWloQNsyz-31" value="Nginx&#xa;(Frontend)" style="labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;fillColor=#000000;strokeColor=none;shape=mxgraph.huawei.huaweicloudarchitecture.huaweisdwan;rounded=0;dashed=1;" vertex="1" parent="VVCZR5unO6yuWloQNsyz-29">
           <mxGeometry x="15" y="8.113126022913256" width="40" height="22.311096563011457" as="geometry" />
         </mxCell>
-        <mxCell id="5mZBz-UAEwgQ3NK9knZv-33" style="labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;fillColor=#000000;strokeColor=none;shape=mxgraph.huawei.huaweicloudarchitecture.huaweicci;rounded=0;dashed=1;" vertex="1" slib="Container service" title="云容器实例" sbId="huawei" parent="5mZBz-UAEwgQ3NK9knZv-30">
+        <mxCell id="VVCZR5unO6yuWloQNsyz-32" style="labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;fillColor=#000000;strokeColor=none;shape=mxgraph.huawei.huaweicloudarchitecture.huaweicci;rounded=0;dashed=1;" vertex="1" slib="Container service" title="云容器实例" sbId="huawei" parent="VVCZR5unO6yuWloQNsyz-29">
           <mxGeometry x="133" y="14.751245171849519" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="5mZBz-UAEwgQ3NK9knZv-34" style="group" connectable="0" vertex="1" parent="1">
+        <mxCell id="VVCZR5unO6yuWloQNsyz-33" style="group" connectable="0" vertex="1" parent="1">
           <mxGeometry x="62" y="621" width="702.5" height="69.54108019639935" as="geometry" />
         </mxCell>
-        <mxCell id="5mZBz-UAEwgQ3NK9knZv-35" style="group" connectable="0" vertex="1" parent="5mZBz-UAEwgQ3NK9knZv-34">
+        <mxCell id="VVCZR5unO6yuWloQNsyz-34" style="group" connectable="0" vertex="1" parent="VVCZR5unO6yuWloQNsyz-33">
           <mxGeometry width="702.5" height="69.54108019639935" as="geometry" />
         </mxCell>
-        <mxCell id="5mZBz-UAEwgQ3NK9knZv-36" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;rounded=0;dashed=1;" vertex="1" slib="basic" title="部分矩形" sbId="basic" parent="5mZBz-UAEwgQ3NK9knZv-35">
+        <mxCell id="VVCZR5unO6yuWloQNsyz-35" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;rounded=0;dashed=1;" vertex="1" slib="basic" title="部分矩形" sbId="basic" parent="VVCZR5unO6yuWloQNsyz-34">
           <mxGeometry width="702.5" height="69.54108019639935" as="geometry" />
         </mxCell>
-        <mxCell id="5mZBz-UAEwgQ3NK9knZv-37" value="Nginx&#xa;(mTLS)" style="labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;fillColor=#000000;strokeColor=none;shape=mxgraph.huawei.huaweicloudarchitecture.huaweisdwan;rounded=0;dashed=1;" vertex="1" parent="5mZBz-UAEwgQ3NK9knZv-35">
+        <mxCell id="VVCZR5unO6yuWloQNsyz-36" value="Nginx&#xa;(mTLS)" style="labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;fillColor=#000000;strokeColor=none;shape=mxgraph.huawei.huaweicloudarchitecture.huaweisdwan;rounded=0;dashed=1;" vertex="1" parent="VVCZR5unO6yuWloQNsyz-34">
           <mxGeometry x="15" y="8.113126022913256" width="40" height="22.311096563011457" as="geometry" />
         </mxCell>
-        <mxCell id="5mZBz-UAEwgQ3NK9knZv-38" style="labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;fillColor=#000000;strokeColor=none;shape=mxgraph.huawei.huaweicloudarchitecture.huaweicci;rounded=0;dashed=1;" vertex="1" slib="Container service" title="云容器实例" sbId="huawei" parent="5mZBz-UAEwgQ3NK9knZv-35">
+        <mxCell id="VVCZR5unO6yuWloQNsyz-37" style="labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;fillColor=#000000;strokeColor=none;shape=mxgraph.huawei.huaweicloudarchitecture.huaweicci;rounded=0;dashed=1;" vertex="1" slib="Container service" title="云容器实例" sbId="huawei" parent="VVCZR5unO6yuWloQNsyz-34">
           <mxGeometry x="611.5" y="14.770000000000095" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="5mZBz-UAEwgQ3NK9knZv-39" style="group" connectable="0" vertex="1" parent="1">
+        <mxCell id="VVCZR5unO6yuWloQNsyz-38" style="group" connectable="0" vertex="1" parent="1">
           <mxGeometry x="62" y="717" width="702.5" height="69.54108019639935" as="geometry" />
         </mxCell>
-        <mxCell id="5mZBz-UAEwgQ3NK9knZv-40" style="group" connectable="0" vertex="1" parent="5mZBz-UAEwgQ3NK9knZv-39">
+        <mxCell id="VVCZR5unO6yuWloQNsyz-39" style="group" connectable="0" vertex="1" parent="VVCZR5unO6yuWloQNsyz-38">
           <mxGeometry width="702.5" height="69.54108019639935" as="geometry" />
         </mxCell>
-        <mxCell id="5mZBz-UAEwgQ3NK9knZv-41" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;rounded=0;dashed=1;" vertex="1" slib="basic" title="部分矩形" sbId="basic" parent="5mZBz-UAEwgQ3NK9knZv-40">
+        <mxCell id="VVCZR5unO6yuWloQNsyz-40" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;rounded=0;dashed=1;" vertex="1" slib="basic" title="部分矩形" sbId="basic" parent="VVCZR5unO6yuWloQNsyz-39">
           <mxGeometry width="702.5" height="69.54108019639935" as="geometry" />
         </mxCell>
-        <mxCell id="5mZBz-UAEwgQ3NK9knZv-42" value="...&#xa;     Other Service" style="labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;fillColor=#000000;strokeColor=none;shape=mxgraph.huawei.huaweicloudarchitecture.huaweisdwan;rounded=0;dashed=1;fontStyle=1" vertex="1" parent="5mZBz-UAEwgQ3NK9knZv-40">
+        <mxCell id="VVCZR5unO6yuWloQNsyz-41" value="...&#xa;     Other Service" style="labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;fillColor=#000000;strokeColor=none;shape=mxgraph.huawei.huaweicloudarchitecture.huaweisdwan;rounded=0;dashed=1;fontStyle=1" vertex="1" parent="VVCZR5unO6yuWloQNsyz-39">
           <mxGeometry x="15" y="8.113126022913256" width="40" height="22.311096563011457" as="geometry" />
         </mxCell>
-        <mxCell id="5mZBz-UAEwgQ3NK9knZv-43" style="labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;fillColor=#000000;strokeColor=none;shape=mxgraph.huawei.huaweicloudarchitecture.huaweicci;rounded=0;dashed=1;" vertex="1" slib="Container service" title="云容器实例" sbId="huawei" parent="5mZBz-UAEwgQ3NK9knZv-40">
+        <mxCell id="VVCZR5unO6yuWloQNsyz-42" style="labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;fillColor=#000000;strokeColor=none;shape=mxgraph.huawei.huaweicloudarchitecture.huaweicci;rounded=0;dashed=1;" vertex="1" slib="Container service" title="云容器实例" sbId="huawei" parent="VVCZR5unO6yuWloQNsyz-39">
           <mxGeometry x="123.75" y="14.77324189852709" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="5mZBz-UAEwgQ3NK9knZv-44" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.511;entryY=0.067;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="5mZBz-UAEwgQ3NK9knZv-5" target="5mZBz-UAEwgQ3NK9knZv-7">
+        <mxCell id="VVCZR5unO6yuWloQNsyz-43" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.511;entryY=0.067;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="VVCZR5unO6yuWloQNsyz-4" target="VVCZR5unO6yuWloQNsyz-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5mZBz-UAEwgQ3NK9knZv-45" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.506;entryY=-0.023;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="5mZBz-UAEwgQ3NK9knZv-5" target="5mZBz-UAEwgQ3NK9knZv-9">
+        <mxCell id="VVCZR5unO6yuWloQNsyz-44" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.506;entryY=-0.023;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="VVCZR5unO6yuWloQNsyz-4" target="VVCZR5unO6yuWloQNsyz-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5mZBz-UAEwgQ3NK9knZv-46" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.517;entryY=-0.023;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="5mZBz-UAEwgQ3NK9knZv-5" target="5mZBz-UAEwgQ3NK9knZv-11">
+        <mxCell id="VVCZR5unO6yuWloQNsyz-45" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.517;entryY=-0.023;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="VVCZR5unO6yuWloQNsyz-4" target="VVCZR5unO6yuWloQNsyz-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5mZBz-UAEwgQ3NK9knZv-47" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.504;entryY=0.049;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="5mZBz-UAEwgQ3NK9knZv-5" target="5mZBz-UAEwgQ3NK9knZv-13">
+        <mxCell id="VVCZR5unO6yuWloQNsyz-46" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.504;entryY=0.049;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="VVCZR5unO6yuWloQNsyz-4" target="VVCZR5unO6yuWloQNsyz-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5mZBz-UAEwgQ3NK9knZv-48" value="Alias DNS" style="labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;fillColor=#000000;strokeColor=none;shape=mxgraph.huawei.huaweicloudarchitecture.huaweidns;rounded=0;dashed=1;" vertex="1" slib="Domain name and website" title="云解析服务" sbId="huawei" parent="1">
+        <mxCell id="VVCZR5unO6yuWloQNsyz-47" value="Alias DNS" style="labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;fillColor=#000000;strokeColor=none;shape=mxgraph.huawei.huaweicloudarchitecture.huaweidns;rounded=0;dashed=1;" vertex="1" slib="Domain name and website" title="云解析服务" sbId="huawei" parent="1">
           <mxGeometry x="-393.75" y="104.5" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="5mZBz-UAEwgQ3NK9knZv-49" value="OBS" style="labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;fillColor=#000000;strokeColor=none;shape=mxgraph.huawei.huaweicloudarchitecture.huaweiobs;rounded=0;dashed=1;fontStyle=1" vertex="1" slib="Storage" title="对象存储服务" sbId="huawei" parent="1">
+        <mxCell id="VVCZR5unO6yuWloQNsyz-48" value="OBS" style="labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;fillColor=#000000;strokeColor=none;shape=mxgraph.huawei.huaweicloudarchitecture.huaweiobs;rounded=0;dashed=1;fontStyle=1" vertex="1" slib="Storage" title="对象存储服务" sbId="huawei" parent="1">
           <mxGeometry x="68" y="983" width="105" height="105" as="geometry" />
         </mxCell>
-        <mxCell id="5mZBz-UAEwgQ3NK9knZv-50" value="Cache（Redis）" style="labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;fillColor=#000000;strokeColor=none;shape=mxgraph.huawei.huaweicloudarchitecture.huaweidcs;rounded=0;dashed=1;fontStyle=1" vertex="1" slib="Overview of application services" title="分布式缓存服务" sbId="huawei" parent="1">
+        <mxCell id="VVCZR5unO6yuWloQNsyz-49" value="Cache（Redis）" style="labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;fillColor=#000000;strokeColor=none;shape=mxgraph.huawei.huaweicloudarchitecture.huaweidcs;rounded=0;dashed=1;fontStyle=1" vertex="1" slib="Overview of application services" title="分布式缓存服务" sbId="huawei" parent="1">
           <mxGeometry x="241" y="983" width="105" height="105" as="geometry" />
         </mxCell>
-        <mxCell id="5mZBz-UAEwgQ3NK9knZv-51" value="ES (ElasticSearch)" style="labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;fillColor=#000000;strokeColor=none;shape=mxgraph.huawei.huaweicloudarchitecture.huaweies;rounded=0;dashed=1;fontStyle=1" vertex="1" slib="EI big data" title="云搜索服务" sbId="huawei" parent="1">
+        <mxCell id="VVCZR5unO6yuWloQNsyz-50" value="ES (ElasticSearch)" style="labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;fillColor=#000000;strokeColor=none;shape=mxgraph.huawei.huaweicloudarchitecture.huaweies;rounded=0;dashed=1;fontStyle=1" vertex="1" slib="EI big data" title="云搜索服务" sbId="huawei" parent="1">
           <mxGeometry x="415" y="983" width="105" height="105" as="geometry" />
         </mxCell>
-        <mxCell id="5mZBz-UAEwgQ3NK9knZv-52" style="group" connectable="0" vertex="1" parent="1">
+        <mxCell id="VVCZR5unO6yuWloQNsyz-51" style="group" connectable="0" vertex="1" parent="1">
           <mxGeometry x="62" y="813.746758101473" width="702.5" height="69.54108019639935" as="geometry" />
         </mxCell>
-        <mxCell id="5mZBz-UAEwgQ3NK9knZv-53" style="group" connectable="0" vertex="1" parent="5mZBz-UAEwgQ3NK9knZv-52">
+        <mxCell id="VVCZR5unO6yuWloQNsyz-52" style="group" connectable="0" vertex="1" parent="VVCZR5unO6yuWloQNsyz-51">
           <mxGeometry width="702.5" height="69.54108019639935" as="geometry" />
         </mxCell>
-        <mxCell id="5mZBz-UAEwgQ3NK9knZv-54" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;rounded=0;dashed=1;" vertex="1" slib="basic" title="部分矩形" sbId="basic" parent="5mZBz-UAEwgQ3NK9knZv-53">
+        <mxCell id="VVCZR5unO6yuWloQNsyz-53" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;rounded=0;dashed=1;" vertex="1" slib="basic" title="部分矩形" sbId="basic" parent="VVCZR5unO6yuWloQNsyz-52">
           <mxGeometry width="702.5" height="69.54108019639935" as="geometry" />
         </mxCell>
-        <mxCell id="5mZBz-UAEwgQ3NK9knZv-55" value="RocketMQ" style="labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;fillColor=#000000;strokeColor=none;shape=mxgraph.huawei.huaweicloudarchitecture.huaweisdwan;rounded=0;dashed=1;fontStyle=1" vertex="1" parent="5mZBz-UAEwgQ3NK9knZv-53">
+        <mxCell id="VVCZR5unO6yuWloQNsyz-54" value="RocketMQ" style="labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;fillColor=#000000;strokeColor=none;shape=mxgraph.huawei.huaweicloudarchitecture.huaweisdwan;rounded=0;dashed=1;fontStyle=1" vertex="1" parent="VVCZR5unO6yuWloQNsyz-52">
           <mxGeometry x="15" y="8.113126022913256" width="40" height="22.311096563011457" as="geometry" />
         </mxCell>
-        <mxCell id="5mZBz-UAEwgQ3NK9knZv-56" style="labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;fillColor=#000000;strokeColor=none;shape=mxgraph.huawei.huaweicloudarchitecture.huaweicci;rounded=0;dashed=1;" vertex="1" slib="Container service" title="云容器实例" sbId="huawei" parent="5mZBz-UAEwgQ3NK9knZv-53">
+        <mxCell id="VVCZR5unO6yuWloQNsyz-55" style="labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;fillColor=#000000;strokeColor=none;shape=mxgraph.huawei.huaweicloudarchitecture.huaweicci;rounded=0;dashed=1;" vertex="1" slib="Container service" title="云容器实例" sbId="huawei" parent="VVCZR5unO6yuWloQNsyz-52">
           <mxGeometry x="123.75" y="14.77324189852709" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="5mZBz-UAEwgQ3NK9knZv-57" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.063;entryY=0.754;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#FF3333;strokeWidth=3;" edge="1" parent="1" source="5mZBz-UAEwgQ3NK9knZv-70" target="5mZBz-UAEwgQ3NK9knZv-37">
+        <mxCell id="VVCZR5unO6yuWloQNsyz-56" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.063;entryY=0.754;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#FF3333;strokeWidth=3;" edge="1" parent="1" source="VVCZR5unO6yuWloQNsyz-69" target="VVCZR5unO6yuWloQNsyz-36">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5mZBz-UAEwgQ3NK9knZv-58" value="DB(MySQL)" style="labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;fillColor=#000000;strokeColor=none;shape=mxgraph.huawei.huaweicloudarchitecture.huaweimysql;rounded=0;dashed=1;fontStyle=1" vertex="1" slib="Cloud data" title="My SQL" sbId="huawei" parent="1">
+        <mxCell id="VVCZR5unO6yuWloQNsyz-57" value="DB(MySQL)" style="labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;fillColor=#000000;strokeColor=none;shape=mxgraph.huawei.huaweicloudarchitecture.huaweimysql;rounded=0;dashed=1;fontStyle=1" vertex="1" slib="Cloud data" title="My SQL" sbId="huawei" parent="1">
           <mxGeometry x="588" y="983" width="105" height="105" as="geometry" />
         </mxCell>
-        <mxCell id="5mZBz-UAEwgQ3NK9knZv-59" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.485;entryY=0.005;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#f8cecc;dashed=1;dashPattern=1 4;strokeWidth=3;strokeColor=#FF3333;" edge="1" parent="1" source="5mZBz-UAEwgQ3NK9knZv-22" target="5mZBz-UAEwgQ3NK9knZv-58">
+        <mxCell id="VVCZR5unO6yuWloQNsyz-58" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.485;entryY=0.005;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#f8cecc;dashed=1;dashPattern=1 4;strokeWidth=3;strokeColor=#FF3333;" edge="1" parent="1" source="VVCZR5unO6yuWloQNsyz-21" target="VVCZR5unO6yuWloQNsyz-57">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5mZBz-UAEwgQ3NK9knZv-60" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.509;entryY=0.005;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;dashPattern=1 4;strokeWidth=3;strokeColor=#FF3333;" edge="1" parent="1" source="5mZBz-UAEwgQ3NK9knZv-22" target="5mZBz-UAEwgQ3NK9knZv-50">
+        <mxCell id="VVCZR5unO6yuWloQNsyz-59" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.509;entryY=0.005;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;dashPattern=1 4;strokeWidth=3;strokeColor=#FF3333;" edge="1" parent="1" source="VVCZR5unO6yuWloQNsyz-21" target="VVCZR5unO6yuWloQNsyz-49">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5mZBz-UAEwgQ3NK9knZv-61" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.487;entryY=0.027;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;dashPattern=1 4;strokeWidth=3;strokeColor=#FF3333;" edge="1" parent="1" source="5mZBz-UAEwgQ3NK9knZv-22" target="5mZBz-UAEwgQ3NK9knZv-51">
+        <mxCell id="VVCZR5unO6yuWloQNsyz-60" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.487;entryY=0.027;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;dashPattern=1 4;strokeWidth=3;strokeColor=#FF3333;" edge="1" parent="1" source="VVCZR5unO6yuWloQNsyz-21" target="VVCZR5unO6yuWloQNsyz-50">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="466" y="464" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="5mZBz-UAEwgQ3NK9knZv-62" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.531;entryY=0.02;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;dashPattern=1 4;strokeWidth=3;strokeColor=#FF3333;" edge="1" parent="1" source="5mZBz-UAEwgQ3NK9knZv-22" target="5mZBz-UAEwgQ3NK9knZv-49">
+        <mxCell id="VVCZR5unO6yuWloQNsyz-61" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.531;entryY=0.02;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;dashPattern=1 4;strokeWidth=3;strokeColor=#FF3333;" edge="1" parent="1" source="VVCZR5unO6yuWloQNsyz-21" target="VVCZR5unO6yuWloQNsyz-48">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5mZBz-UAEwgQ3NK9knZv-63" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.028;entryY=0.816;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;dashPattern=1 4;strokeColor=#FF3333;strokeWidth=3;" edge="1" parent="1" source="5mZBz-UAEwgQ3NK9knZv-22" target="5mZBz-UAEwgQ3NK9knZv-55">
+        <mxCell id="VVCZR5unO6yuWloQNsyz-62" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.028;entryY=0.816;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;dashPattern=1 4;strokeColor=#FF3333;strokeWidth=3;" edge="1" parent="1" source="VVCZR5unO6yuWloQNsyz-21" target="VVCZR5unO6yuWloQNsyz-54">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="52" y="464" />
@@ -202,38 +202,38 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="5mZBz-UAEwgQ3NK9knZv-64" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.008;entryY=0.651;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#FF3333;strokeWidth=3;" edge="1" parent="1" source="5mZBz-UAEwgQ3NK9knZv-67" target="5mZBz-UAEwgQ3NK9knZv-32">
+        <mxCell id="VVCZR5unO6yuWloQNsyz-63" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.008;entryY=0.651;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#FF3333;strokeWidth=3;" edge="1" parent="1" source="VVCZR5unO6yuWloQNsyz-66" target="VVCZR5unO6yuWloQNsyz-31">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5mZBz-UAEwgQ3NK9knZv-65" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.488;entryY=0.111;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#FF3333;strokeWidth=3;dashed=1;dashPattern=1 4;" edge="1" parent="1" source="5mZBz-UAEwgQ3NK9knZv-18" target="5mZBz-UAEwgQ3NK9knZv-58">
+        <mxCell id="VVCZR5unO6yuWloQNsyz-64" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.488;entryY=0.111;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#FF3333;strokeWidth=3;dashed=1;dashPattern=1 4;" edge="1" parent="1" source="VVCZR5unO6yuWloQNsyz-17" target="VVCZR5unO6yuWloQNsyz-57">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5mZBz-UAEwgQ3NK9knZv-66" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="VVCZR5unO6yuWloQNsyz-65" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="-289" y="266.6700000000001" width="119" height="95.32999999999993" as="geometry" />
         </mxCell>
-        <mxCell id="5mZBz-UAEwgQ3NK9knZv-67" value="&lt;b&gt;ALP&lt;/b&gt;" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=1;align=center;outlineConnect=0;dashed=0;outlineConnect=0;shape=mxgraph.aws3d.elasticLoadBalancing;fillColor=#ECECEC;strokeColor=#5E5E5E;aspect=fixed;rounded=0;" vertex="1" parent="5mZBz-UAEwgQ3NK9knZv-66">
+        <mxCell id="VVCZR5unO6yuWloQNsyz-66" value="&lt;b&gt;ALP&lt;/b&gt;" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=1;align=center;outlineConnect=0;dashed=0;outlineConnect=0;shape=mxgraph.aws3d.elasticLoadBalancing;fillColor=#ECECEC;strokeColor=#5E5E5E;aspect=fixed;rounded=0;" vertex="1" parent="VVCZR5unO6yuWloQNsyz-65">
           <mxGeometry x="27" width="92" height="88.17" as="geometry" />
         </mxCell>
-        <mxCell id="5mZBz-UAEwgQ3NK9knZv-68" value="" style="labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;fillColor=#000000;strokeColor=none;shape=mxgraph.huawei.huaweicloudarchitecture.huaweieip;rounded=0;dashed=1;" vertex="1" sbId="huawei" slib="Network" title="弹性公网" parent="5mZBz-UAEwgQ3NK9knZv-66">
+        <mxCell id="VVCZR5unO6yuWloQNsyz-67" value="" style="labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;fillColor=#000000;strokeColor=none;shape=mxgraph.huawei.huaweicloudarchitecture.huaweieip;rounded=0;dashed=1;" vertex="1" sbId="huawei" slib="Network" title="弹性公网" parent="VVCZR5unO6yuWloQNsyz-65">
           <mxGeometry y="55.32999999999993" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="5mZBz-UAEwgQ3NK9knZv-69" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="VVCZR5unO6yuWloQNsyz-68" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="-289" y="629.11" width="119" height="95.88999999999999" as="geometry" />
         </mxCell>
-        <mxCell id="5mZBz-UAEwgQ3NK9knZv-70" value="&lt;b&gt;NLP&lt;/b&gt;" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=1;align=center;outlineConnect=0;dashed=0;outlineConnect=0;shape=mxgraph.aws3d.elasticLoadBalancing;fillColor=#ECECEC;strokeColor=#5E5E5E;aspect=fixed;rounded=0;" vertex="1" parent="5mZBz-UAEwgQ3NK9knZv-69">
+        <mxCell id="VVCZR5unO6yuWloQNsyz-69" value="&lt;b&gt;NLP&lt;/b&gt;" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=1;align=center;outlineConnect=0;dashed=0;outlineConnect=0;shape=mxgraph.aws3d.elasticLoadBalancing;fillColor=#ECECEC;strokeColor=#5E5E5E;aspect=fixed;rounded=0;" vertex="1" parent="VVCZR5unO6yuWloQNsyz-68">
           <mxGeometry x="27" width="92" height="88.17" as="geometry" />
         </mxCell>
-        <mxCell id="5mZBz-UAEwgQ3NK9knZv-71" value="" style="labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;fillColor=#000000;strokeColor=none;shape=mxgraph.huawei.huaweicloudarchitecture.huaweieip;rounded=0;dashed=1;" vertex="1" sbId="huawei" slib="Network" title="弹性公网" parent="5mZBz-UAEwgQ3NK9knZv-69">
+        <mxCell id="VVCZR5unO6yuWloQNsyz-70" value="" style="labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;fillColor=#000000;strokeColor=none;shape=mxgraph.huawei.huaweicloudarchitecture.huaweieip;rounded=0;dashed=1;" vertex="1" sbId="huawei" slib="Network" title="弹性公网" parent="VVCZR5unO6yuWloQNsyz-68">
           <mxGeometry y="55.889999999999986" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="5mZBz-UAEwgQ3NK9knZv-72" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.035;entryY=0.629;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;dashPattern=1 4;strokeColor=#FF3333;strokeWidth=3;" edge="1" parent="1" source="5mZBz-UAEwgQ3NK9knZv-67" target="5mZBz-UAEwgQ3NK9knZv-48">
+        <mxCell id="VVCZR5unO6yuWloQNsyz-71" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.035;entryY=0.629;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;dashPattern=1 4;strokeColor=#FF3333;strokeWidth=3;" edge="1" parent="1" source="VVCZR5unO6yuWloQNsyz-66" target="VVCZR5unO6yuWloQNsyz-47">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-216" y="130" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="5mZBz-UAEwgQ3NK9knZv-73" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=1 4;strokeColor=#FF3333;strokeWidth=3;entryX=0.494;entryY=1.379;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="5mZBz-UAEwgQ3NK9knZv-70" target="5mZBz-UAEwgQ3NK9knZv-48">
+        <mxCell id="VVCZR5unO6yuWloQNsyz-72" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=1 4;strokeColor=#FF3333;strokeWidth=3;entryX=0.494;entryY=1.379;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="VVCZR5unO6yuWloQNsyz-69" target="VVCZR5unO6yuWloQNsyz-47">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-376" y="131" as="targetPoint" />
             <Array as="points">
@@ -242,16 +242,16 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="5mZBz-UAEwgQ3NK9knZv-74" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="VVCZR5unO6yuWloQNsyz-73" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="-761" y="656.25" width="90" height="105" as="geometry" />
         </mxCell>
-        <mxCell id="5mZBz-UAEwgQ3NK9knZv-75" value="DevOps" style="labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;fillColor=#000000;strokeColor=none;shape=mxgraph.huawei.huaweicloudarchitecture.huaweiaccount;rounded=0;dashed=1;fontStyle=1" vertex="1" sbId="huawei" slib="Other" title="帐户" parent="5mZBz-UAEwgQ3NK9knZv-74">
+        <mxCell id="VVCZR5unO6yuWloQNsyz-74" value="DevOps" style="labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;fillColor=#000000;strokeColor=none;shape=mxgraph.huawei.huaweicloudarchitecture.huaweiaccount;rounded=0;dashed=1;fontStyle=1" vertex="1" sbId="huawei" slib="Other" title="帐户" parent="VVCZR5unO6yuWloQNsyz-73">
           <mxGeometry width="78.5" height="96.5" as="geometry" />
         </mxCell>
-        <mxCell id="5mZBz-UAEwgQ3NK9knZv-76" value="" style="labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;strokeColor=none;shape=mxgraph.huawei.huaweicloudarchitecture.huaweiscm;rounded=0;dashed=1;fillColor=#FF3333;" vertex="1" sbId="huawei" slib="Domain name and website" title="证书管理" parent="5mZBz-UAEwgQ3NK9knZv-74">
+        <mxCell id="VVCZR5unO6yuWloQNsyz-75" value="" style="labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;strokeColor=none;shape=mxgraph.huawei.huaweicloudarchitecture.huaweiscm;rounded=0;dashed=1;fillColor=#FF3333;" vertex="1" sbId="huawei" slib="Domain name and website" title="证书管理" parent="VVCZR5unO6yuWloQNsyz-73">
           <mxGeometry x="50" y="65" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="5mZBz-UAEwgQ3NK9knZv-77" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF3333;strokeWidth=3;" edge="1" parent="1" source="5mZBz-UAEwgQ3NK9knZv-76" target="5mZBz-UAEwgQ3NK9knZv-70">
+        <mxCell id="VVCZR5unO6yuWloQNsyz-76" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF3333;strokeWidth=3;" edge="1" parent="1" source="VVCZR5unO6yuWloQNsyz-75" target="VVCZR5unO6yuWloQNsyz-69">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-551" y="776" />
@@ -259,10 +259,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="5mZBz-UAEwgQ3NK9knZv-78" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF3333;strokeWidth=3;" edge="1" parent="1" source="5mZBz-UAEwgQ3NK9knZv-79" target="5mZBz-UAEwgQ3NK9knZv-67">
+        <mxCell id="VVCZR5unO6yuWloQNsyz-77" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF3333;strokeWidth=3;" edge="1" parent="1" source="VVCZR5unO6yuWloQNsyz-78" target="VVCZR5unO6yuWloQNsyz-66">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5mZBz-UAEwgQ3NK9knZv-79" value="tenant User" style="labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;fillColor=#000000;strokeColor=none;shape=mxgraph.huawei.huaweicloudarchitecture.huaweiaccount;rounded=0;dashed=1;fontStyle=1" vertex="1" sbId="huawei" slib="Other" title="帐户" parent="1">
+        <mxCell id="VVCZR5unO6yuWloQNsyz-78" value="tenant User" style="labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;fillColor=#000000;strokeColor=none;shape=mxgraph.huawei.huaweicloudarchitecture.huaweiaccount;rounded=0;dashed=1;fontStyle=1" vertex="1" sbId="huawei" slib="Other" title="帐户" parent="1">
           <mxGeometry x="-761.25" y="264.84" width="90" height="90" as="geometry" />
         </mxCell>
       </root>
